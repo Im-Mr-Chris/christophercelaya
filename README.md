@@ -56,6 +56,50 @@ https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&l
 
 
 
+## 🤖 Artificial Intelligence [🔝](#welcome-badges-4-readmemd-profile)
+## 🔗 Blockchain [🔝](#welcome-badges-4-readmemd-profile)
+## 📝 Blog [🔝](#welcome-badges-4-readmemd-profile)
+## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)
+## ☁ Cloud [🔝](#welcome-badges-4-readmemd-profile)
+## 💲 Cryptocurrency [🔝](#welcome-badges-4-readmemd-profile)
+## ⚡ Database [🔝](#welcome-badges-4-readmemd-profile)
+## 🖍 Design [🔝](#welcome-badges-4-readmemd-profile)
+## 📚 Education [🔝](#welcome-badges-4-readmemd-profile)
+## 🚀 Frameworks [🔝](#welcome-badges-4-readmemd-profile)
+## ❤ Funding [🔝](#welcome-badges-4-readmemd-profile)
+## 🎮 Games [🔝](#welcome-badges-4-readmemd-profile)
+## 🤜 Group [🔝](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 IDE [🔝](#welcome-badges-4-readmemd-profile)
+## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
+## 📱 Mobile Frameworks [🔝](#welcome-badges-4-readmemd-profile)
+## 👨‍💻 Office [🔝](#welcome-badges-4-readmemd-profile)
+## 💻 OS [🔝](#welcome-badges-4-readmemd-profile)
+## 💡 Prototyping Platforms [🔝](#welcome-badges-4-readmemd-profile)
+## 👨 Social [🔝](#welcome-badges-4-readmemd-profile)
+## 👨 Social [🔝](#welcome-badges-4-readmemd-profile)
+## 🎶 Sound [🔝](#welcome-badges-4-readmemd-profile)
+## 🛒 Store [🔝](#welcome-badges-4-readmemd-profile)
+## 🎞 Streaming [🔝](#welcome-badges-4-readmemd-profile)
+## 💻 Terminal [🔝](#welcome-badges-4-readmemd-profile)
+## 🌐 Web Browsers [🔝](#welcome-badges-4-readmemd-profile)
+## 🥅 Work/Jobs [🔝](#welcome-badges-4-readmemd-profile)
+## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
+## 📈 Activity Graph [🔝](#welcome-badges-4-readmemd-profile)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
