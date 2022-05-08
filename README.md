@@ -1,22 +1,10 @@
-[![Build Status](https://travis-ci.org/albinotonnina/albinotonnina.com.svg?branch=master)](https://travis-ci.org/albinotonnina/albinotonnina.com)
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-# albinotonnina.com
+![Profile View Counter](https://komarev.com/ghpvc/?username=christophercelaya)
 
-[www.albinotonnina.com](http://www.albinotonnina.com) - source code
+[![wakatime](https://wakatime.com/badge/user/350c3f45-6621-46c3-ba47-00757e90cde6.svg)](https://wakatime.com/@350c3f45-6621-46c3-ba47-00757e90cde6)
 
-## Install
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=128420863&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=128420863&redirect=true)
 
-`yarn`
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=christophercelaya&show_icons=true)
 
-## Dev
 
-`yarn dev`
-
-## Build
-
-`yarn build`
-
-## Test
-
-`yarn test`
